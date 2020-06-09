@@ -1,0 +1,64 @@
+* {
+    box-sizing: border-box;
+}
+body, html {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+body, header, footer, main, nav {
+    background: royalBlue;
+    color: whitesmoke;
+}
+header, main, footer, nav {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0.5em 1em;
+}
+footer::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    width: 100%;
+    width: 100%;
+    background: url('/images/curved-edge-royal-blue.svg');
+}
+table, tr, td, thead, tbody {
+    color: whitesmoke;
+}
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid gainsboro;
+}
+nav {
+    border-top: 1px solid whitesmoke;
+    background: #6495ed;
+    border-bottom: 1px solid whitesmoke;
+    margin: 0;
+    padding: 0;
+}
+nav ul {
+    display: flex;
+    list-style-type: none;
+    justify-content: space-evenly;
+    align-content: stretch;
+    margin: 0;
+    padding: 0;
+}
+nav ul li a {
+    color: whitesmoke;
+    text-decoration: none;
+}
+nav ul li {
+    transition: all 190ms;
+    padding: 0.5em;
+    margin: 0;
+    flex-grow: 1;
+}
+nav ul li:hover {
+    background: royalBlue;
+}
+.hidden {display: none;}

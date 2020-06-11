@@ -20,7 +20,7 @@ const makeTabMapEntry = (section) => [makeTab(section), section];
 const makeTabClickHandler = (tabMap) =>
     (event) => {
         // event.preventDefault();
-        const path = event.path;
+        const path = event.path || event.composedPath();
         const activeTab = path.find((node) => node.tagName == "LI");
         const activeSection = tabMap.get(activeTab);
         const hash = activeTab.querySelector("a").getAttribute("href");

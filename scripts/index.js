@@ -1,43 +1,49 @@
 // find all sections in the doc
 const getSections = () => [...document.querySelectorAll("section")];
-// get the first h2 in a section
-const getSectionHeader = (section) => section.querySelector("h2");
-// set the id of the section to uriencoded header text
-const idSection = (section) => section
-    .setAttribute("id",
-        encodeURI(getSectionHeader(section).innerText));
-// idSection for all sections
-const idSections = () => getSections().forEach(idSection);
-//
-// compose nav elements
-const makeNavElt = (name, target) => {
+// set id of each section
+const addSectionID = (section) => {
+    section.setAttribute("id", encodeURI(section.querySelector("h2").innerText));
+    return section;
+};
+// given a section, make the corresponding nav element
+const makeTab = (section) => {
     const a = document.createElement("a");
     const li = document.createElement("li");
-    a.setAttribute("href", `#${target}`);
-    a.innerText = name;
+    const id = section.getAttribute("id");
+    a.setAttribute("href", "#" + id);
+    a.innerText = id;
     li.appendChild(a);
     return li;
 };
-//
-const makeNavEltForSection = (section) => makeNavElt(section.id, section.id);
-//
-//
-const makeNav = () => {
-    idSections();
-    const sectionList = getSections();
-    // 
-    const collapseSections = () => sectionList.forEach((section) => section.classList.add("hidden"));
-    const expandSection = (section) => section.classList.remove("hidden");
+const makeTabMapEntry = (section) => [makeTab(section), section];
+// dispatcher to handle tab changes
+const makeTabClickHandler = (tabMap) =>
+    (event) => {
+        // event.preventDefault();
+        const path = event.path;
+        const activeTab = path.find((node) => node.tagName == "LI");
+        const activeSection = tabMap.get(activeTab);
+        const hash = activeTab.querySelector("a").getAttribute("href");
+        // change URL to reflect tab state
+        window.location.hash = hash;
+        // hide all sections and inactivate all tabs
+        tabMap.forEach((section, tab) => {
+            section.classList.add("collapsed");
+            tab.classList.remove("activeTab");
+        });
+        activeSection.classList.remove("collapsed");
+        activeTab.classList.add("activeTab");
+    };
+const makeTabBar = (nav) => {
+    const sections = getSections();
+    sections.forEach(addSectionID);
+    const tabMap = new Map(sections.map(makeTabMapEntry));
     //
-    const changeSection = (e) => console.log(e);
-    const nav = document.querySelector("nav");
-    const ul = document.createElement("ul");
-    const navElts = sectionList.map(makeNavEltForSection);
-    navElts.forEach((elt) => ul.appendChild(elt));
-    nav.addEventListener("click", changeSection);
-    nav.appendChild(ul);
+    const tabList = document.createElement("ul");
+    tabMap.forEach((_, tab) => tabList.appendChild(tab));
+    nav.appendChild(tabList);
+    nav.addEventListener("click", makeTabClickHandler(tabMap));
     return nav;
 };
-
-const initialize = () => makeNav();
+const initialize = () => makeTabBar(document.querySelector("nav"));
 window.addEventListener("load", initialize);

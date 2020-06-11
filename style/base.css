@@ -34,8 +34,6 @@ table {
     border: 1px solid gainsboro;
 }
 nav {
-    border-top: 1px solid whitesmoke;
-    background: #6495ed;
     border-bottom: 1px solid whitesmoke;
     margin: 0;
     padding: 0;
@@ -54,11 +52,17 @@ nav ul li a {
 }
 nav ul li {
     transition: all 190ms;
-    padding: 0.5em;
+    padding: 0.25em;
+    text-align: center;
     margin: 0;
     flex-grow: 1;
 }
 nav ul li:hover {
-    background: royalBlue;
+    background: #6495ed;
 }
-.hidden {display: none;}
+
+.activeTab {
+    background: #6495ed;
+}
+
+.collapsed {display: none;}

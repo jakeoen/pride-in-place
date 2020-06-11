@@ -27,6 +27,13 @@ footer::before {
 table, tr, td, thead, tbody {
     color: whitesmoke;
 }
+thead {
+    border-bottom: 1px solid gainsboro;
+}
+td, th {
+    padding: 0.5em;
+    vertical-align: top;
+}
 table {
     table-layout: fixed;
     width: 100%;

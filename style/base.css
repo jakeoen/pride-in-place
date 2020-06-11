@@ -16,6 +16,10 @@ header, main, footer, nav {
     margin: 0;
     padding: 0.5em 1em;
 }
+h1 {
+    max-width: 640px;
+    margin: 1em auto;
+}
 footer::before {
     content: "";
     position: absolute;
@@ -33,6 +37,7 @@ thead {
 td, th {
     padding: 0.5em;
     vertical-align: top;
+    text-align: left;
 }
 table {
     table-layout: fixed;
@@ -73,3 +78,7 @@ nav ul li:hover {
 }
 
 .collapsed {display: none;}
+.contentWrapper{
+    max-width: 640;
+    margin: 0 auto;
+}

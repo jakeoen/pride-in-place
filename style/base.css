@@ -1,6 +1,7 @@
 * {
     box-sizing: border-box;
 }
+
 body, html {
     height: 100%;
     width: 100%;
@@ -13,25 +14,12 @@ body, header, footer, main, nav {
 }
 header, main, footer, nav {
     font-family: sans-serif;
-    margin: 0;
-    padding: 0.5em 1em;
-}
-h1 {
-    max-width: 640px;
-    margin: 1em auto;
-}
-footer {
-    max-width: 640px;
     margin: 0 auto;
-    text-align: center;
+    padding: 0.5em 1em;
+    max-width: 640px;
 }
-footer::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    width: 100%;
-    width: 100%;
-    background: url('/images/curved-edge-royal-blue.svg');
+header {
+    position: relative;
 }
 table, tr, td, thead, tbody {
     color: whitesmoke;
@@ -51,7 +39,6 @@ table {
     border: 1px solid gainsboro;
 }
 nav {
-    border-bottom: 1px solid whitesmoke;
     margin: 0 auto;
     max-width: 640px;
     padding: 0;
@@ -73,21 +60,26 @@ nav ul li a {
 }
 nav ul li {
     transition: all 190ms;
+    position: relative;
     padding: 0.25em;
     text-align: center;
     margin: 0;
     flex-grow: 1;
 }
-nav ul li:hover {
+[role=tab]:hover {
     background: #6495ed;
 }
 
 .activeTab {
-    background: #6495ed;
 }
-
-.collapsed {display: none;}
-.contentWrapper{
-    max-width: 640;
-    margin: 0 auto;
+.activeTab::after {
+    position: absolute;
+    width: 100%;
+    content: "";
+    left: 0;
+    bottom: 0;
+    border-bottom: 2px solid whitesmoke;
+}
+.collapsed {
+    display: none;
 }

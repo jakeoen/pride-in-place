@@ -8,9 +8,8 @@ body, html {
     margin: 0;
     padding: 0;
 }
-body, header, footer, main, nav {
-    background: royalBlue;
-    color: whitesmoke;
+header, footer, main, nav {
+    color: #111;
 }
 header, main, footer, nav {
     font-family: sans-serif;
@@ -20,12 +19,14 @@ header, main, footer, nav {
 }
 header {
     position: relative;
+    display: flex;
+    justify-content: flex-start;
+    align-content: flex-start;
 }
 table, tr, td, thead, tbody {
-    color: whitesmoke;
+    color: #111;
 }
 thead {
-    border-bottom: 1px solid gainsboro;
 }
 td, th {
     padding: 0.5em;
@@ -82,4 +83,7 @@ nav ul li {
 }
 .collapsed {
     display: none;
+}
+#header-logo, h1 {
+    margin: auto 0.5em;
 }

@@ -46,6 +46,7 @@ const makeTabBar = (nav) => {
     tabMap.forEach((_, tab) => tabList.appendChild(tab));
     nav.appendChild(tabList);
     nav.addEventListener("click", makeTabClickHandler(tabMap));
+    [...tabMap.keys()][0].click();
     return nav;
 };
 const initialize = () => makeTabBar(document.querySelector("nav"));

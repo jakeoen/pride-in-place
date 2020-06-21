@@ -90,3 +90,10 @@ nav ul li {
     margin: auto 0.5em;
 }
 h1 {text-transform: uppercase;}
+
+.sponsored-logos {
+    display: flex;
+    align-items: center;
+    
+}
+

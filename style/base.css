@@ -94,6 +94,11 @@ h1 {text-transform: uppercase;}
 .sponsored-logos {
     display: flex;
     align-items: center;
-    
 }
-
+.prize-images {
+    display: flex;
+}
+.prize-images img {
+    max-width: 150px;
+    max-height: 150px;
+}

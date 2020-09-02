@@ -4,19 +4,32 @@
     box-sizing: border-box;
 }
 
+html {
+    --background: hsl(30, 50%, 2%);
+    --text: #ffa;
+    --link: #ccf;
+}
+
 body, html {
     height: 100%;
     width: 100%;
     margin: 0;
     padding: 0;
 }
+body {
+    background: var(--background);
+}
+
+a {
+    color: var(--link)
+}
 header, footer, main, nav {
-    color: #111;
+    color: var(--text);
 }
 header, main, footer, nav {
-    font-family: 'Montserrat', sans-serif;
+    font: 18px/1.5 'Montserrat', sans-serif;
     margin: 0 auto;
-    padding: 0.5em 1em;
+    /* padding: 0.5em 1em; */
     max-width: 640px;
 }
 header {
@@ -26,7 +39,7 @@ header {
     align-content: flex-start;
 }
 table, tr, td, thead, tbody {
-    color: #111;
+    color: var(--text);
 }
 thead {
 }
@@ -87,7 +100,7 @@ nav ul li {
     display: none;
 }
 #header-logo, h1 {
-    margin: auto 0.5em;
+    /* margin: auto 0.5em; */
 }
 h1 {text-transform: uppercase;}
 
@@ -108,3 +121,23 @@ h1 {text-transform: uppercase;}
     max-height: 150px;
 }
 
+.headshot {
+    max-width: 200px;
+    max-height: 200px;
+    float: left;
+    margin-right: 1em;
+    vertical-align: text-top;
+    border: 1px solid;
+    
+}
+
+.pussy-pedestal {
+    max-height:  45vh;
+    max-width: 640px;
+    margin: 0 auto;
+}
+
+#title-block-header {
+}
+h1.title {
+}

@@ -1,5 +1,6 @@
 ﻿---
 title: Pride in Place!
+date: 2020
 ---
 # About
 
@@ -43,14 +44,35 @@ Featuring:
 
 - Yodassa Williams
 - Nika Cherrelle
-- Elaine  Brown Poet E Spoken
+- Elaine Brown (a.k.a. Poet E Spoken)
 - Natasha Ria El-Scari
 
 ## Nika Cherrelle
 
+![Nika Cherrelle](images/headshots/Nika-Cherrelle.jpg){.headshot} [Marnika
+Shelton, AKA Nika Cherrelle](https://nikacherrelles.com/), is an engaging,
+vibrant, creative artist, educator and activist with over 25 years of experience
+in the [Fine Arts](https://marnikashelton.com/). Classically trained in
+sculpture and specializing in figurative ceramics and portraiture, Marnika uses
+the visual arts as a platform to drive home complex, layered and controversial
+narratives. Her works are designed to engage the viewer in conversations that
+challenge socially and culturally normative viewpoints around race, gender,
+sexuality, class and religion. Taking on topics such as indoctrination and
+historical prejudice by recreating stories from unexplored angles to expose
+longstanding impacts on society. Views of masculinity, prejudice, violence,
+shame, sexuality and how fear creates difference are all within the scope of her
+work. Marnika enjoys speaking in communities, classrooms and institutions about
+Art, Sexuality and Politics. Her work exists to empower and inspire people
+across all cultural backgrounds. By breaking down taboo, She aims to create a
+world where all people feel loved, honored and respected.
+
 ## Elaine Brown (a.k.a. Poet E Spoken)
 
-Elain Brown is a mother, author, writer, teacher, and spoken word artist. She is the Co-host of My Word Open Mic, Poetry Express, and Vent- A safe space and support group for Sexual assault Survivors. Her book Cried Out Laughing and CD Every Knee Part II will be out later this year.
+![Elaine Brown](images/headshots/Elaine-Brown.jpg){.headshot} Elaine Brown is a
+mother, author, writer, teacher, and spoken word artist. She is the Co-host of
+My Word Open Mic, Poetry Express, and Vent- A safe space and support group for
+Sexual assault Survivors. Her book Cried Out Laughing and CD Every Knee Part II
+will be out later this year.
 
 ## Natasha Ria El-Scari
 

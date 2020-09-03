@@ -6,7 +6,7 @@
 
 html {
     --background: hsl(30, 50%, 2%);
-    --text: #ffa;
+    --text: #f0f0ff;
     --link: #ccf;
 }
 
@@ -136,7 +136,12 @@ h1 {text-transform: uppercase;}
     max-width: 640px;
     margin: 0 auto;
 }
-
+.ig-hashtag {
+  background: radial-gradient(circle at 0 100%, #ffdc80, #fcaf45, #f77737, #f56040, #fd1d1d, #e1306c, #c13584, #833ab4, #5851db, #405de6);
+  background-clip: text;
+  color: transparent;
+  text-decoration: underline;
+}
 #title-block-header {
 }
 h1.title {

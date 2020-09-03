@@ -9,6 +9,8 @@ festivities to celebrate PRIDEInPlace!
 
 ![Pussy Pedestal Music Festival](images/branding/PP_Logo2019_Color.png){.pussy-pedestal}\ 
 
+[#PRIDEinPlace]() [#PussyPedestal2020]() [#OaklandPride2020]()
+
 Featuring:
 
 ## Khalibud

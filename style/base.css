@@ -7,7 +7,8 @@
 html {
     --background: hsl(30, 50%, 2%);
     --text: #f0f0ff;
-    --link: #ccf;
+    --link: #8cf;
+    --ig-gradient: radial-gradient(circle at 0 100%, #ffdc80, #fcaf45, #f77737, #f56040, #fd1d1d, #e1306c, #c13584, #833ab4, #5851db, #405de6);
 }
 
 body, html {
@@ -113,7 +114,9 @@ nav ul li {
 #header-logo, h1 {
     /* margin: auto 0.5em; */
 }
-h1 {text-transform: uppercase;}
+h1 {
+    text-transform: uppercase;
+}
 
 .sponsored-logos {
     display: flex;
@@ -148,10 +151,22 @@ h1 {text-transform: uppercase;}
     margin: 0 auto;
 }
 .ig-hashtag {
-  background: radial-gradient(circle at 0 100%, #ffdc80, #fcaf45, #f77737, #f56040, #fd1d1d, #e1306c, #c13584, #833ab4, #5851db, #405de6);
+  background: var(--ig-gradient);
   background-clip: text;
   color: transparent;
   text-decoration: underline;
+  position: relative;
+  display: inline-block;
+}
+.ig-hashtag:after {
+    content: "";
+    position: absolute;
+    display: inline-block;
+    background: var(--ig-gradient);
+    height: 1px;
+    width: 100%;
+    bottom: 0;
+    left: 0;
 }
 /* clearfix */
 .level2:after {

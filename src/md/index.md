@@ -7,6 +7,10 @@ We are bringing you Two Performances and a week of workshops, panels and festivi
 
 ![Pride in Place](images/branding/pip-logo.svg){.pride-in-place}\ ![Pussy Pedestal Music Festival](images/branding/PP_Logo2019_Color.png){.pussy-pedestal}\
 
+## Sponsors
+
+[![San Francisco AIDs Foundation](images/branding/sfaf-logo-color.png){.sponsor}](https://www.sfaf.org/)\
+
 # Pussy Pedestal
 
 The 2nd Annual Pussy Pedestal Music Festival!

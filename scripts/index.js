@@ -1,15 +1,16 @@
 // find all sections in the doc
-const getSections = () => [...document.querySelectorAll("section")];
+const getSections = () => [...document.querySelectorAll("section.level1")];
 // set id of each section
-const addSectionID = (section) => {
-    section.setAttribute("id", encodeURI(section.querySelector("h2").innerText));
+const addSectionRoles = (section) => {
+    // section.setAttribute("id", encodeURI(section.querySelector("h2").innerText));
     section.setAttribute("role", "tabpanel");
     return section;
 };
+const getSectionTitle = (section) => section.querySelector("h1").innerText;
 // given a section, make the corresponding nav element
 const makeTab = (section) => {
     const id = section.getAttribute("id");
-    const text = document.createTextNode(id);
+    const text = document.createTextNode(getSectionTitle(section));
     const li = document.createElement("li");
     li.setAttribute("role", "tab");
     li.setAttribute("aria-owns", id);
@@ -39,7 +40,7 @@ const makeTabClickHandler = (tabMap) =>
     };
 const makeTabBar = (nav) => {
     const sections = getSections();
-    sections.forEach(addSectionID);
+    sections.forEach(addSectionRoles);
     const tabMap = new Map(sections.map(makeTabMapEntry));
     const tabList = document.createElement("ul");
     tabList.setAttribute("role", "tablist");

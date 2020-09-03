@@ -5,9 +5,11 @@ title: Pride in Place!
 
 We are bringing you Two Performances and a week of workshops, panels and festivities to celebrate PRIDEInPlace. Follow [#PRIDEinPlace]() [#PussyPedestal2020]() [#OaklandPride2020]() to keep in touch!
 
-# 2nd Annual Pussy Pedestal Music Festival
+![Pride in Place](images/branding/pip-logo.svg){.pride-in-place}\ ![Pussy Pedestal Music Festival](images/branding/PP_Logo2019_Color.png){.pussy-pedestal}\
 
-![Pussy Pedestal Music Festival](images/branding/PP_Logo2019_Color.png){.pussy-pedestal}\ 
+# Pussy Pedestal
+
+The 2nd Annual Pussy Pedestal Music Festival!
 
 Featuring:
 
@@ -29,7 +31,9 @@ Featuring:
 
 ![OHMi Water](images/headshots/OHMi-Water.jpg){.headshot}OHMi is a creative artist hailing from Covina, CA. She moved to the Bay Area to complete he degree at SF State in Black Studies. she was involved in the movement to save the College of Ethnic Studies. OHMi then realized that she had something to say, and had creative tools to do so. She creates music to affirm and uplift herself, and those around her. 
 
-# Black Voices Matter - The Poetic Revolution!
+# Black Voices Matter
+
+The Poetic Revolution
 
 Featuring:
 
@@ -60,7 +64,7 @@ seminars, speaking engagements, performances, manuscript development, social
 media content and more. For more info visit
 [www.natasharia.com!](https://www.natasharia.com)
 
-# Support the Queer Black Revolution!
+# Support
 
 - PayPal: [Paypal](https://paypal.me/PRIDEinPlace)
 - Venmo: @PRIDEinPlace

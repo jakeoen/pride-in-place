@@ -83,7 +83,8 @@ nav ul li {
     flex-grow: 1;
 }
 [role=tab]:hover {
-    background: #6495ed;
+    background: var(--text);
+    color: var(--background);
 }
 
 .activeTab {
@@ -131,9 +132,9 @@ h1 {text-transform: uppercase;}
     
 }
 
-.pussy-pedestal {
+.pussy-pedestal, .pride-in-place {
     max-height:  45vh;
-    max-width: 640px;
+    max-width: 200px;
     margin: 0 auto;
 }
 .ig-hashtag {

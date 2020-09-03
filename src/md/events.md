@@ -5,7 +5,7 @@ date: 2020
 We are bringing you Two Performances and a week of workshops, panels and
 festivities to celebrate PRIDEInPlace!
 
-# 2nd Annual Pussy Pedestal Music Festival
+# Pussy Pedestal
 
 ![Pussy Pedestal Music Festival](images/branding/PP_Logo2019_Color.png){.pussy-pedestal}\ 
 
@@ -32,7 +32,9 @@ as Cadence believes live music is the ideal delivery method for this type of
 medicine.
 
 
-# Black Voices Matter - The Poetic Revolution!
+# Black Voices Matter
+
+The Poetic Revolution!
 
 Featuring:
 

@@ -4,13 +4,18 @@ date: 2020
 ---
 # About
 
-We are bringing you Two Performances and a week of workshops, panels and festivities to celebrate PRIDEInPlace. Follow [#PRIDEinPlace]() [#PussyPedestal2020]() [#OaklandPride2020]() to keep in touch!
+We are bringing you Two Performances and a week of workshops, panels and
+festivities to celebrate PRIDEInPlace. Follow [#PRIDEinPlace]()
+[#PussyPedestal2020]() [#OaklandPride2020]() to keep in touch!
 
-![Pride in Place](images/branding/pip-logo.svg){.pride-in-place}\ ![Pussy Pedestal Music Festival](images/branding/PP_Logo2019_Color.png){.pussy-pedestal}\
+![Pride in Place](images/branding/pip-logo.svg){.pride-in-place}\ ![Pussy
+Pedestal Music
+Festival](images/branding/PP_Logo2019_Color.png){.pussy-pedestal}\
 
 ## Sponsors
 
-[![San Francisco AIDs Foundation](images/branding/sfaf-logo-color.png){.sponsor}](https://www.sfaf.org/)\
+[![San Francisco AIDs
+Foundation](images/branding/sfaf-logo-color.png){.sponsor}](https://www.sfaf.org/)\
 
 # Pussy Pedestal
 
@@ -26,15 +31,30 @@ Featuring:
 
 ## Khalibud
 
-![Khalibud](images/headshots/Khalibud.jpg){.headshot} Khalibud is a ball of energy bred in the San Francisco Bay Area. Her lyrics imitate life, serving as an audio diary for her listeners. Khalibud mixes jazz, soul and grassroots hip hop bridging the new with the old. She is amped to bring love and light to the stage. Her latest project "Peace of Imperfection" is available on all platforms.
+![Khalibud](images/headshots/Khalibud.jpg){.headshot} Khalibud is a ball of
+energy bred in the San Francisco Bay Area. Her lyrics imitate life, serving as
+an audio diary for her listeners. Khalibud mixes jazz, soul and grassroots hip
+hop bridging the new with the old. She is amped to bring love and light to the
+stage. Her latest project "Peace of Imperfection" is available on all platforms.
 
 ## Cadence Myles
 
-![Cadence Myles](images/headshots/Cadence-Myles.jpg){.headshot}Cadence Myles is an Oakland based live musician. A combination of rock attitude, the soul of R&B, plus the structure of some pop music presents an experience like no other. Usually Cadence plays acoustic guitar and is also a skilled drummer as well as song writer. At this time there are no studio recordings being promoted as Cadence believes live music is the ideal delivery method for this type of medicine.
+![Cadence Myles](images/headshots/Cadence-Myles.jpg){.headshot}Cadence Myles is
+an Oakland based live musician. A combination of rock attitude, the soul of R&B,
+plus the structure of some pop music presents an experience like no
+other. Usually Cadence plays acoustic guitar and is also a skilled drummer as
+well as song writer. At this time there are no studio recordings being promoted
+as Cadence believes live music is the ideal delivery method for this type of
+medicine.
 
 ## OHMi Water
 
-![OHMi Water](images/headshots/OHMi-Water.jpg){.headshot}OHMi is a creative artist hailing from Covina, CA. She moved to the Bay Area to complete he degree at SF State in Black Studies. she was involved in the movement to save the College of Ethnic Studies. OHMi then realized that she had something to say, and had creative tools to do so. She creates music to affirm and uplift herself, and those around her. 
+![OHMi Water](images/headshots/OHMi-Water.jpg){.headshot}OHMi is a creative
+artist hailing from Covina, CA. She moved to the Bay Area to complete he degree
+at SF State in Black Studies. she was involved in the movement to save the
+College of Ethnic Studies. OHMi then realized that she had something to say, and
+had creative tools to do so. She creates music to affirm and uplift herself, and
+those around her.
 
 # Black Voices Matter
 
@@ -46,6 +66,14 @@ Featuring:
 - Nika Cherrelle
 - Elaine Brown (a.k.a. Poet E Spoken)
 - Natasha Ria El-Scari
+
+## Elaine Brown (a.k.a. Poet E Spoken)
+
+![Elaine Brown](images/headshots/Elaine-Brown.jpg){.headshot} Elaine Brown is a
+mother, author, writer, teacher, and spoken word artist. She is the Co-host of
+My Word Open Mic, Poetry Express, and Vent- A safe space and support group for
+Sexual assault Survivors. Her book Cried Out Laughing and CD Every Knee Part II
+will be out later this year.
 
 ## Nika Cherrelle
 
@@ -65,14 +93,6 @@ work. Marnika enjoys speaking in communities, classrooms and institutions about
 Art, Sexuality and Politics. Her work exists to empower and inspire people
 across all cultural backgrounds. By breaking down taboo, She aims to create a
 world where all people feel loved, honored and respected.
-
-## Elaine Brown (a.k.a. Poet E Spoken)
-
-![Elaine Brown](images/headshots/Elaine-Brown.jpg){.headshot} Elaine Brown is a
-mother, author, writer, teacher, and spoken word artist. She is the Co-host of
-My Word Open Mic, Poetry Express, and Vent- A safe space and support group for
-Sexual assault Survivors. Her book Cried Out Laughing and CD Every Knee Part II
-will be out later this year.
 
 ## Natasha Ria El-Scari
 
@@ -95,4 +115,6 @@ media content and more. For more info visit
 - PayPal: [Paypal](https://paypal.me/PRIDEinPlace)
 - Venmo: @PRIDEinPlace
 
-All contributions to PRIDEInPlace will be used to support Black and Cultural Empowerment Movements, Black Owned Businesses and the Artists responsible for bringing this creation to you
+All contributions to PRIDEInPlace will be used to support Black and Cultural
+Empowerment Movements, Black Owned Businesses and the Artists responsible for
+bringing this creation to you

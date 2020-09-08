@@ -100,7 +100,7 @@ Featuring:
 
 ## Yodassa Williams
 
-![Yodassa Williams](images/headshots/Nika-Cherrelle.jpg){.headshot} Yodassa
+![Yodassa Williams](images/headshots/Yodassa-Williams.jpg){.headshot} Yodassa
 Williams is a Jamaican American author and award-winning performing
 storyteller. An alumna of the VONA/Voices Travel Writing program and host of the
 podcast The Black Girl Magic Files, Yodassa (Yoda) launched Writers Emerging, a

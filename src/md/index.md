@@ -14,28 +14,30 @@ Festival](images/branding/PP_Logo2019_Color.png){.pussy-pedestal}\
 
 ## Sponsors
 
+The Pussy Pedestal 2020 Music Festival is an Oakland Pride event brought to you by [Nika Cherrelle's LLC](https://nikacherrelles.com/) & the [San Francisco AIDS Foundation](https://www.sfaf.org/).
+
+
 [![San Francisco AIDs
-Foundation](images/branding/sfaf-logo-color.png){.sponsor}](https://www.sfaf.org/)\
+Foundation](images/branding/sfaf-logo-color.png){.sponsor}](https://eventhub.shop/oakland-pride-2020-virtual-vendor-village/san-francisco-aids-foundation
+)\
 
 # Pussy Pedestal
+
+Created by Artist, Musician & Producer Somilia Rabee. Pussy Pedestal is a Music Festival by Womxn for Everyone. This year for [#OaklandPride2020]() [#QueerBlackRevolution]() we are bringing you an amazing lineup of talent featuring: DJ Lady Ryan, Caydence Myles, OHMi Water, Khalibud & DJ Kream.
 
 The 2nd Annual Pussy Pedestal Music Festival!
 
 Featuring:
 
-- DJ Kream
-- Cadence Myles
-- Khalibud
-- OHMi Water
 - DJ Lady Ryan
+- Cadence Myles
+- Breathless
+- Khalibud
+- DJ Kream
 
-## Khalibud
+## DJ Lady Ryan
 
-![Khalibud](images/headshots/Khalibud.jpg){.headshot} Khalibud is a ball of
-energy bred in the San Francisco Bay Area. Her lyrics imitate life, serving as
-an audio diary for her listeners. Khalibud mixes jazz, soul and grassroots hip
-hop bridging the new with the old. She is amped to bring love and light to the
-stage. Her latest project "Peace of Imperfection" is available on all platforms.
+This diverse DJ is known for the energy exchange she shares with her crowds in every song selection and tune she sings. LadyRyan's talent crosses the board from vinyl to digital ranging in a deep knowledge of Breaks, Soul, Latin, Hip Hop, Funk, Reggae, Afro-beat and Top 40.
 
 ## Cadence Myles
 
@@ -47,6 +49,23 @@ well as song writer. At this time there are no studio recordings being promoted
 as Cadence believes live music is the ideal delivery method for this type of
 medicine.
 
+## Breathless
+
+![Breathless](images/headshots/Breathless.jpg){.headshot} Breathless a.k.a. Honey
+B is all Hip Hop, no Substitutions. An Emcee and touring Artist, Lyrical &
+Passionate, Honey B has years of experience as a professional in the business,
+visiting stages all across the nation and worldwide. She has received an Omaha
+Entertainment Award for Best Hip Hop/Rap artist, performed on The Warped Tour
+circuit, Outside Lands, Oakland Art & Soul Main Stage, San Francisco Pride Main
+Stage, and Oakland Pride (Womyns & Main Stage), rocked over 175 shows a year,
+charted on radio stations internationally, and still has time to volunteer at
+women and youth organizations and schools. Breathless also does ghostwriting,
+voiceover/on-air talent, and has co-founded an all female art collective, the
+Venus Rising Collective, based in Oakland, empowering and uplifting women around
+the world. She now tours and performs with DJ Lex, formerly of Souls of
+Mischief, as well as Jazz Mafia's Heaviest Feather (a 10-piece brass-led band),
+recently voted East Bay's Best Band 2019.
+
 ## OHMi Water
 
 ![OHMi Water](images/headshots/OHMi-Water.jpg){.headshot}OHMi is a creative
@@ -55,6 +74,18 @@ at SF State in Black Studies. she was involved in the movement to save the
 College of Ethnic Studies. OHMi then realized that she had something to say, and
 had creative tools to do so. She creates music to affirm and uplift herself, and
 those around her.
+
+## Khalibud
+
+![Khalibud](images/headshots/Khalibud.jpg){.headshot} Khalibud is a ball of
+energy bred in the San Francisco Bay Area. Her lyrics imitate life, serving as
+an audio diary for her listeners. Khalibud mixes jazz, soul and grassroots hip
+hop bridging the new with the old. She is amped to bring love and light to the
+stage. Her latest project "Peace of Imperfection" is available on all platforms.
+
+## DJ Kream
+
+![DJ Kream](images/headshots/DJ-Kream.jpg){.headshot} Bijou McDaniel is an Oakland native who is making a name for herself in the local scene with her signature genre mixing DJ style. After attending The Academy of Art in San Francisco and working various jobs from Visual Merchandiser to Non-profit Development Fundraiser, Bijou acted on one of her life-long passions and turned it into art form never looking back. In 2016, Bijou co-founded an Oakland-based music festival called Oakhella and where she also made her DJ debut curating tunes at the inaugural festival.  Since her debut as DJ Kream, Bijou has curated grooves at nightclubs, art receptions, weddings, day parties, and corporate events.
 
 # Black Voices Matter
 
@@ -67,6 +98,28 @@ Featuring:
 - Elaine Brown (a.k.a. Poet E Spoken)
 - Natasha Ria El-Scari
 
+## Yodassa Williams
+
+![Yodassa Williams](images/headshots/Nika-Cherrelle.jpg){.headshot} Yodassa
+Williams is a Jamaican American author and award-winning performing
+storyteller. An alumna of the VONA/Voices Travel Writing program and host of the
+podcast The Black Girl Magic Files, Yodassa (Yoda) launched Writers Emerging, a
+wilderness writing retreat for women of color and non-binary people of color,
+in 2019. Her debut YA Fantasy, *The Goddess Twins*, is a 'Black Girl Magic'
+adventure that was published with wide praise in May 2020. Find her online at
+[yodawill.com](https://yodawill.com).
+
+## Nika Cherrelle
+
+![Nika Cherrelle](images/headshots/Nika-Cherrelle.jpg){.headshot} [Marnika
+Shelton, a.k.a. Nika Cherrelle](https://nikacherrelles.com/), is an engaging,
+vibrant, [creative artist](https://marnikashelton.com/), educator and
+activist. Her work is designed to engage the viewer in conversations that
+challenge socially and culturally normative viewpoints around race, gender,
+sexuality, class and religion. Through conversation she focuses on how fear
+creates the concept of difference and otherism. By breaking down taboo, She aims
+to create a world where all people feel loved, honored and respected.
+
 ## Elaine Brown (a.k.a. Poet E Spoken)
 
 ![Elaine Brown](images/headshots/Elaine-Brown.jpg){.headshot} Elaine Brown is a
@@ -74,25 +127,6 @@ mother, author, writer, teacher, and spoken word artist. She is the Co-host of
 My Word Open Mic, Poetry Express, and Vent- A safe space and support group for
 Sexual assault Survivors. Her book Cried Out Laughing and CD Every Knee Part II
 will be out later this year.
-
-## Nika Cherrelle
-
-![Nika Cherrelle](images/headshots/Nika-Cherrelle.jpg){.headshot} [Marnika
-Shelton, AKA Nika Cherrelle](https://nikacherrelles.com/), is an engaging,
-vibrant, creative artist, educator and activist with over 25 years of experience
-in the [Fine Arts](https://marnikashelton.com/). Classically trained in
-sculpture and specializing in figurative ceramics and portraiture, Marnika uses
-the visual arts as a platform to drive home complex, layered and controversial
-narratives. Her works are designed to engage the viewer in conversations that
-challenge socially and culturally normative viewpoints around race, gender,
-sexuality, class and religion. Taking on topics such as indoctrination and
-historical prejudice by recreating stories from unexplored angles to expose
-longstanding impacts on society. Views of masculinity, prejudice, violence,
-shame, sexuality and how fear creates difference are all within the scope of her
-work. Marnika enjoys speaking in communities, classrooms and institutions about
-Art, Sexuality and Politics. Her work exists to empower and inspire people
-across all cultural backgrounds. By breaking down taboo, She aims to create a
-world where all people feel loved, honored and respected.
 
 ## Natasha Ria El-Scari
 
@@ -110,7 +144,36 @@ seminars, speaking engagements, performances, manuscript development, social
 media content and more. For more info visit
 [www.natasharia.com!](https://www.natasharia.com)
 
-# Support
+# Pet Play Events
+
+## Ethology
+
+[Ethology](www.ethologycollective.org)
+
+Thursday September 9
+4pm Pet Play 101
+
+What is pet play? Why do people do it? Do pet players practice zoophilia? Is it sexual? These are questions we will answer in our class. Bring your curiosity and questions.
+
+Thursday September 9
+
+Ethology 101
+
+Ocelot and Cricket Frog
+
+Are you an animal? Are you curious about being one? Join us for Ethology 101 and learn all about the animals you live to embody. Learn general information, look at photos, listen to their calls and noises, learn about their mating habits and more!
+
+## East Bay Pups
+
+[East Bay Pups](https://www.facebook.com/eastbaypups)
+
+Friday September 10
+4pm Pet Training with The East Bay Pups
+
+Hey handlers and critters of all kinds! Have you ever wanted to take part in a real obedience class? Well now you can! The Ethology Collective in collaboration with The East Bay Pups will be hosting a virtual obedience class for human pets and handlers alike. Handler Roscoe will be working with pup Barbie in a step by step rundown for both pets and handlers on how to properly train your human pet. Not confident in your skills as a handler? Don't have a handler, but long to be given commands? Then this is the class for you!
+
+
+# Support Us!
 
 - PayPal: [Paypal](https://paypal.me/PRIDEinPlace)
 - Venmo: @PRIDEinPlace

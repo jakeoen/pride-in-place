@@ -19,13 +19,13 @@ The Pussy Pedestal 2020 Music Festival is an Oakland Pride event brought to you 
 
 [![San Francisco AIDs
 Foundation](images/branding/sfaf-logo-color.png){.sponsor}](https://eventhub.shop/oakland-pride-2020-virtual-vendor-village/san-francisco-aids-foundation
-)\
+)\ [![Oakland Pride](images/branding/oakland-pride.png){.sponsor}](https://oaklandpride.org/)\
 
 # Pussy Pedestal
+## A Music Festival by Womxn for Everyone
+Created by Artist, Musician & Producer Somilia Rabee. This year for [#OaklandPride2020]() [#QueerBlackRevolution]() we are bringing you an amazing lineup of talent featuring: DJ Lady Ryan, Caydence Myles, OHMi Water, Khalibud & DJ Kream.
 
-Created by Artist, Musician & Producer Somilia Rabee. Pussy Pedestal is a Music Festival by Womxn for Everyone. This year for [#OaklandPride2020]() [#QueerBlackRevolution]() we are bringing you an amazing lineup of talent featuring: DJ Lady Ryan, Caydence Myles, OHMi Water, Khalibud & DJ Kream.
-
-The 2nd Annual Pussy Pedestal Music Festival!
+![The 2nd Annual Pussy Pedestal Music Festival!](images/branding/oak-pride-pp-banner.jpg){.banner}\
 
 Featuring:
 
@@ -37,7 +37,7 @@ Featuring:
 
 ## DJ Lady Ryan
 
-This diverse DJ is known for the energy exchange she shares with her crowds in every song selection and tune she sings. LadyRyan's talent crosses the board from vinyl to digital ranging in a deep knowledge of Breaks, Soul, Latin, Hip Hop, Funk, Reggae, Afro-beat and Top 40.
+![DJ Lady Ryan](images/headshots/DJ-Lady-Ryan.jpg){.headshot}This diverse DJ is known for the energy exchange she shares with her crowds in every song selection and tune she sings. LadyRyan's talent crosses the board from vinyl to digital ranging in a deep knowledge of Breaks, Soul, Latin, Hip Hop, Funk, Reggae, Afro-beat and Top 40.
 
 ## Cadence Myles
 
@@ -85,11 +85,13 @@ stage. Her latest project "Peace of Imperfection" is available on all platforms.
 
 ## DJ Kream
 
-![DJ Kream](images/headshots/DJ-Kream.jpg){.headshot} Bijou McDaniel is an Oakland native who is making a name for herself in the local scene with her signature genre mixing DJ style. After attending The Academy of Art in San Francisco and working various jobs from Visual Merchandiser to Non-profit Development Fundraiser, Bijou acted on one of her life-long passions and turned it into art form never looking back. In 2016, Bijou co-founded an Oakland-based music festival called Oakhella and where she also made her DJ debut curating tunes at the inaugural festival.  Since her debut as DJ Kream, Bijou has curated grooves at nightclubs, art receptions, weddings, day parties, and corporate events.
+![DJ Kream](images/headshots/DJ-Kream.png){.headshot} Bijou McDaniel is an Oakland native who is making a name for herself in the local scene with her signature genre mixing DJ style. After attending The Academy of Art in San Francisco and working various jobs from Visual Merchandiser to Non-profit Development Fundraiser, Bijou acted on one of her life-long passions and turned it into art form never looking back. In 2016, Bijou co-founded an Oakland-based music festival called Oakhella and where she also made her DJ debut curating tunes at the inaugural festival.  Since her debut as DJ Kream, Bijou has curated grooves at nightclubs, art receptions, weddings, day parties, and corporate events.
 
 # Black Voices Matter
 
-The Poetic Revolution
+## Black Voices Matter: The Poetic Revolution
+
+### Saturday September 12th 2pm-4pm
 
 Featuring:
 
@@ -146,31 +148,42 @@ media content and more. For more info visit
 
 # Pet Play Events
 
-## Ethology
+## Thursday September 9th 4pm-8pm
 
-[Ethology](www.ethologycollective.org)
+### Pet Play 101
 
-Thursday September 9
-4pm Pet Play 101
+[<svg class="brand"><use xlink:href="#ethology" /></svg>](www.ethologycollective.org)
+What is pet play? Why do people do it? Do pet players practice zoophilia? Is it
+sexual? These are questions we will answer in our class. Bring your curiosity
+and questions.
 
-What is pet play? Why do people do it? Do pet players practice zoophilia? Is it sexual? These are questions we will answer in our class. Bring your curiosity and questions.
-
-Thursday September 9
-
-Ethology 101
-
-Ocelot and Cricket Frog
+### Ethology 101: Ocelot and Cricket Frog
 
 Are you an animal? Are you curious about being one? Join us for Ethology 101 and learn all about the animals you live to embody. Learn general information, look at photos, listen to their calls and noises, learn about their mating habits and more!
 
+
+### Pet Play Q&A
+
+So now you have heard about pet play and heard the who's, what's and how's of
+this kink and learned about 2 animals and how to embody them as a pet
+player. Now let's hear from you. What questions do you have? Hearing is just
+half of the learning process. Asking must be done before Doing. Ask us anything!
+
 ## East Bay Pups
 
-[East Bay Pups](https://www.facebook.com/eastbaypups)
+### Friday September 10th 4pm-8pm
 
-Friday September 10
-4pm Pet Training with The East Bay Pups
+### Pet Training with The East Bay Pups
 
-Hey handlers and critters of all kinds! Have you ever wanted to take part in a real obedience class? Well now you can! The Ethology Collective in collaboration with The East Bay Pups will be hosting a virtual obedience class for human pets and handlers alike. Handler Roscoe will be working with pup Barbie in a step by step rundown for both pets and handlers on how to properly train your human pet. Not confident in your skills as a handler? Don't have a handler, but long to be given commands? Then this is the class for you!
+[<svg class="brand"><use
+xlink:href="#east-bay-pups"/></svg>](https://www.facebook.com/eastbaypups) Hey
+handlers and critters of all kinds! Have you ever wanted to take part in a real
+obedience class? Well now you can! The Ethology Collective in collaboration with
+The East Bay Pups will be hosting a virtual obedience class for human pets and
+handlers alike. Handler Roscoe will be working with pup Barbie in a step by step
+rundown for both pets and handlers on how to properly train your human pet. Not
+confident in your skills as a handler? Don't have a handler, but long to be
+given commands? Then this is the class for you!
 
 
 # Support Us!

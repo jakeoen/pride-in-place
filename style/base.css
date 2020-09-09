@@ -117,10 +117,11 @@ nav ul li {
 #header-logo, h1 {
     /* margin: auto 0.5em; */
 }
-h1, h2, h3 {
+h1, h2 {
     font-family: var(--display-font);
     /* text-transform: uppercase; */
 }
+
 
 .sponsored-logos {
     display: flex;
@@ -139,17 +140,22 @@ h1, h2, h3 {
     max-height: 150px;
 }
 
-.headshot {
+.headshot, .brand {
     max-width: 200px;
     max-height: 200px;
     float: left;
     margin-right: 1em;
     vertical-align: text-top;
+
+}
+.headshot {
     border: 1px solid;
-    
+}
+.brand {
+    fill: var(--text);
 }
 
-.pussy-pedestal, .pride-in-place, .sponsor {
+.pussy-pedestal, .pride-in-place, .oakland-pride, .sponsor {
     max-height:  150px;
     max-width: 150px;
     margin: 0 auto;
@@ -173,11 +179,10 @@ h1, h2, h3 {
     left: 0;
 }
 /* clearfix */
-.level2:after {
-    color: var(--text);
+.level2:after, .level3:after {
+    content: "";
     display: table;
-    clear: both
-
+    clear: both;
 }
 #title-block-header {
 }
@@ -188,9 +193,13 @@ h1.title {
     height: 100px;
     width: 100px;
 }
+.banner {
+    max-width: 640px;
+    width: 100%;
+    margin: 1em auto;
+}
 .sprite-sheet {
     display: none;
-    visibility: none;
     height: 0;
     width: 0;
     opacity: 0;

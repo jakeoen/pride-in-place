@@ -22,6 +22,12 @@ Foundation](images/branding/sfaf-logo-color.png){.sponsor}](https://eventhub.sho
 )\ [![Oakland Pride](images/branding/oakland-pride.png){.sponsor}](https://oaklandpride.org/)\
 
 # Pussy Pedestal
+
+
+Sep 12, 2020 08:00 PM Pacific Time (US and Canada)
+
+[Join Via Zoom](https://us02web.zoom.us/j/89622950543?pwd=Z0luM0dXRVhHdlBHMHVlVGxzNWRGZz09)
+
 ## A Music Festival by Womxn for Everyone
 Created by Artist, Musician & Producer Somilia Rabee. This year for [#OaklandPride2020]() [#QueerBlackRevolution]() we are bringing you an amazing lineup of talent featuring: DJ Lady Ryan, Caydence Myles, OHMi Water, Khalibud & DJ Kream.
 
@@ -32,6 +38,7 @@ Featuring:
 - DJ Lady Ryan
 - Cadence Myles
 - Breathless
+- OHMi Water
 - Khalibud
 - DJ Kream
 
@@ -66,6 +73,10 @@ the world. She now tours and performs with DJ Lex, formerly of Souls of
 Mischief, as well as Jazz Mafia's Heaviest Feather (a 10-piece brass-led band),
 recently voted East Bay's Best Band 2019.
 
+- Venmo: @BreathlessMusic
+- PayPal: https://www.paypal.me/BreathlessMusic
+- CashApp: $breathlessakahoneyb 
+
 ## OHMi Water
 
 ![OHMi Water](images/headshots/OHMi-Water.jpg){.headshot}OHMi is a creative
@@ -86,6 +97,9 @@ stage. Her latest project "Peace of Imperfection" is available on all platforms.
 ## DJ Kream
 
 ![DJ Kream](images/headshots/DJ-Kream.png){.headshot} Bijou McDaniel is an Oakland native who is making a name for herself in the local scene with her signature genre mixing DJ style. After attending The Academy of Art in San Francisco and working various jobs from Visual Merchandiser to Non-profit Development Fundraiser, Bijou acted on one of her life-long passions and turned it into art form never looking back. In 2016, Bijou co-founded an Oakland-based music festival called Oakhella and where she also made her DJ debut curating tunes at the inaugural festival.  Since her debut as DJ Kream, Bijou has curated grooves at nightclubs, art receptions, weddings, day parties, and corporate events.
+
+- Venmo: @BijouM
+- Cashapp: $bijoumc
 
 # Black Voices Matter
 
@@ -111,6 +125,9 @@ in 2019. Her debut YA Fantasy, *The Goddess Twins*, is a 'Black Girl Magic'
 adventure that was published with wide praise in May 2020. Find her online at
 [yodawill.com](https://yodawill.com).
 
+- Paypal: yodawill@gmail.com
+- Venmo: @yodassa
+
 ## Nika Cherrelle
 
 ![Nika Cherrelle](images/headshots/Nika-Cherrelle.jpg){.headshot} [Marnika
@@ -130,6 +147,8 @@ My Word Open Mic, Poetry Express, and Vent- A safe space and support group for
 Sexual assault Survivors. Her book Cried Out Laughing and CD Every Knee Part II
 will be out later this year.
 
+- Cashapp: $ESpoken
+
 ## Natasha Ria El-Scari
 
 ![Natasha Ria El-Scari](images/headshots/Natasha-Ria.jpg){.headshot} Natasha Ria
@@ -145,6 +164,9 @@ albums on all media outlets. Natasha Ria is available for readings, workshops,
 seminars, speaking engagements, performances, manuscript development, social
 media content and more. For more info visit
 [www.natasharia.com!](https://www.natasharia.com)
+
+- Venmo: @Natasha-El-Scari
+- PayPal: nre816@gmail.com
 
 # Pet Play Events
 
@@ -187,6 +209,9 @@ given commands? Then this is the class for you!
 
 
 # Support Us!
+
+You can tip artists and performers through the links on their bio. Pussy
+Pedestal and Pride In Place are also gratefully accepting donations here:
 
 - PayPal: [Paypal](https://paypal.me/PRIDEinPlace)
 - Venmo: @PRIDEinPlace

@@ -23,10 +23,9 @@ Foundation](images/branding/sfaf-logo-color.png){.sponsor}](https://eventhub.sho
 
 # Pussy Pedestal
 
-
 Sep 12, 2020 08:00 PM Pacific Time (US and Canada)
 
-[Join Via Zoom](https://us02web.zoom.us/j/89622950543?pwd=Z0luM0dXRVhHdlBHMHVlVGxzNWRGZz09)
+[Join Via Zoom](https://us02web.zoom.us/j/89622950543)
 
 ## A Music Festival by Womxn for Everyone
 Created by Artist, Musician & Producer Somilia Rabee. This year for [#OaklandPride2020]() [#QueerBlackRevolution]() we are bringing you an amazing lineup of talent featuring: DJ Lady Ryan, Caydence Myles, OHMi Water, Khalibud & DJ Kream.
@@ -39,7 +38,6 @@ Featuring:
 - Cadence Myles
 - Breathless
 - OHMi Water
-- Khalibud
 - DJ Kream
 
 ## DJ Lady Ryan
@@ -55,6 +53,10 @@ other. Usually Cadence plays acoustic guitar and is also a skilled drummer as
 well as song writer. At this time there are no studio recordings being promoted
 as Cadence believes live music is the ideal delivery method for this type of
 medicine.
+
+- Venmo: @rhythmsoldier
+- Cashapp: $rhythmsoldier
+- PayPal: [cadencemyles](https://paypal.me/cadencemyles)
 
 ## Breathless
 
@@ -74,7 +76,7 @@ Mischief, as well as Jazz Mafia's Heaviest Feather (a 10-piece brass-led band),
 recently voted East Bay's Best Band 2019.
 
 - Venmo: @BreathlessMusic
-- PayPal: https://www.paypal.me/BreathlessMusic
+- PayPal: [BreathlessMusic](https://www.paypal.me/BreathlessMusic)
 - CashApp: $breathlessakahoneyb 
 
 ## OHMi Water
@@ -85,14 +87,6 @@ at SF State in Black Studies. she was involved in the movement to save the
 College of Ethnic Studies. OHMi then realized that she had something to say, and
 had creative tools to do so. She creates music to affirm and uplift herself, and
 those around her.
-
-## Khalibud
-
-![Khalibud](images/headshots/Khalibud.jpg){.headshot} Khalibud is a ball of
-energy bred in the San Francisco Bay Area. Her lyrics imitate life, serving as
-an audio diary for her listeners. Khalibud mixes jazz, soul and grassroots hip
-hop bridging the new with the old. She is amped to bring love and light to the
-stage. Her latest project "Peace of Imperfection" is available on all platforms.
 
 ## DJ Kream
 
@@ -105,7 +99,7 @@ stage. Her latest project "Peace of Imperfection" is available on all platforms.
 
 ## Black Voices Matter: The Poetic Revolution
 
-### Saturday September 12th 2pm-4pm
+### Saturday September 12th 3pm-5pm
 
 Featuring:
 
@@ -139,6 +133,8 @@ sexuality, class and religion. Through conversation she focuses on how fear
 creates the concept of difference and otherism. By breaking down taboo, She aims
 to create a world where all people feel loved, honored and respected.
 
+- PayPal: Marnika.shelton@gmail.com
+
 ## Elaine Brown (a.k.a. Poet E Spoken)
 
 ![Elaine Brown](images/headshots/Elaine-Brown.jpg){.headshot} Elaine Brown is a
@@ -167,10 +163,11 @@ media content and more. For more info visit
 
 - Venmo: @Natasha-El-Scari
 - PayPal: nre816@gmail.com
+- Cashapp: $NatashaElScari
 
 # Pet Play Events
 
-## Thursday September 9th 4pm-8pm
+## Saturday September 12th 12pm-6pm
 
 ### Pet Play 101
 
@@ -213,8 +210,9 @@ given commands? Then this is the class for you!
 You can tip artists and performers through the links on their bio. Pussy
 Pedestal and Pride In Place are also gratefully accepting donations here:
 
-- PayPal: [Paypal](https://paypal.me/PRIDEinPlace)
+- PayPal: [PrideinPlace](https://paypal.me/PRIDEinPlace)
 - Venmo: @PRIDEinPlace
+- or on [GoFundMe!](gf.me/u/x9j3qd)
 
 All contributions to PRIDEInPlace will be used to support Black and Cultural
 Empowerment Movements, Black Owned Businesses and the Artists responsible for

@@ -88,6 +88,10 @@ College of Ethnic Studies. OHMi then realized that she had something to say, and
 had creative tools to do so. She creates music to affirm and uplift herself, and
 those around her.
 
+- Cashapp: $Ohmithehomie 
+- Venmo: Ohmithehomie 
+- Ig: Ohmithehomie 
+
 ## DJ Kream
 
 ![DJ Kream](images/headshots/DJ-Kream.png){.headshot} Bijou McDaniel is an Oakland native who is making a name for herself in the local scene with her signature genre mixing DJ style. After attending The Academy of Art in San Francisco and working various jobs from Visual Merchandiser to Non-profit Development Fundraiser, Bijou acted on one of her life-long passions and turned it into art form never looking back. In 2016, Bijou co-founded an Oakland-based music festival called Oakhella and where she also made her DJ debut curating tunes at the inaugural festival.  Since her debut as DJ Kream, Bijou has curated grooves at nightclubs, art receptions, weddings, day parties, and corporate events.
